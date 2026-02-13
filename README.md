@@ -173,3 +173,16 @@ Evaluation results are used to identify the best-performing model.
 ## 🎯 Conclusion
 
 This project demonstrates a complete **end-to-end machine learning workflow** for customer churn prediction, combining feature engineering, data balancing, and ensemble modeling techniques to achieve robust predictive performance. The approach can be extended to other customer retention and business analytics use cases.
+
+---
+
+## 👩‍💻 Author
+
+Nikita Amelia Valencia  
+Machine Learning & Data Science Enthusiast
+
+---
+
+## 📜 License
+
+This project is for educational and portfolio purposes.
